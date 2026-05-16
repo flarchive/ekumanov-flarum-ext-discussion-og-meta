@@ -1,0 +1,46 @@
+{
+    "name": "ekumanov/flarum-ext-discussion-og-meta",
+    "description": "Emits OpenGraph and Twitter Card meta tags on Flarum discussion pages so external link previews show the actual discussion title, excerpt, and (when available) first-post image.",
+    "keywords": [
+        "flarum",
+        "extension",
+        "opengraph",
+        "twitter-card",
+        "seo",
+        "social-share"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/ekumanov/flarum-ext-discussion-og-meta/issues",
+        "source": "https://github.com/ekumanov/flarum-ext-discussion-og-meta"
+    },
+    "require": {
+        "flarum/core": "^2.0@beta",
+        "php": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "ekumanov",
+            "email": "ekumanov@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ekumanov\\DiscussionOgMeta\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Discussion OpenGraph Meta",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-share-alt",
+                "backgroundColor": "#1DA1F2",
+                "color": "#fff"
+            }
+        }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
+}
