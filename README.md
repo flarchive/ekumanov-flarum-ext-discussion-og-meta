@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ekumanov/flarum-ext-discussion-og-meta.** Not for installation: use [Packagist](https://packagist.org/packages/ekumanov/flarum-ext-discussion-og-meta) or the [upstream repository](https://github.com/ekumanov/flarum-ext-discussion-og-meta).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/ekumanov-flarum-ext-discussion-og-meta/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0@beta`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/ekumanov-flarum-ext-discussion-og-meta/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0@beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-05-16 | `^2.0@beta` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-discussion-og-meta/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/ekumanov-flarum-ext-discussion-og-meta.json](https://github.com/flarchive/archive-index/blob/main/packages/ekumanov-flarum-ext-discussion-og-meta.json)
 
